@@ -14,7 +14,7 @@ int main()
 	cout << "hello world! hello world!" << endl;
 	print(str);
 	print(ptr);
-	printp((void *)ptr);
+	//printp((void *)ptr);
 	system("pause");
 	return 0;
 
